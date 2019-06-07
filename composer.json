@@ -1,6 +1,7 @@
 {
     "name": "guilhermebussidias/logout-fix",
     "description": "OneLogin PHP SAML Toolkit",
+    "version": "1.0",
     "license": "MIT",
     "homepage": "https://developers.onelogin.com/saml/php",
     "keywords": ["saml", "saml2", "onelogin"],
